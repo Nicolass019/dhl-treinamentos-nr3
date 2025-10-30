@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/23234369/index.html)
+[index (1).html](https://github.com/user-attachments/files/23234573/index.1.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -148,8 +148,8 @@
         <div class="header">
             <div class="logo">DHL</div>
             <span class="logo-subtext">Supply Chain</span>
-            <h1>Inscrição Treinamentos Obrigatórios</h1>
-            <h2>NR 35 (Trabalho em Altura) e NR 18 (Condições e Meio Ambiente de Trabalho na Indústria da Construção)</h2>
+            <h1>Inscrição Para Treinamento</h1>
+            <h2>NR 35 (Trabalho em Altura) e NR 18 (Operação de Plataformas Elevatórias)</h2>
         </div>
 
         <div id="error-message" class="error-message"></div>
